@@ -8,6 +8,11 @@ Corresponding Paper link: https://paper.dropbox.com/doc/Vera-Molnar--A0Y3J5IWCTX
 
 2. Read through [Computer Grass is Natural Grass](https://www.atariarchives.org/artist/sec5.php). Pick a sentence that stands out to you and explain why.
 
+> The sentence (or rather, sentences) I pick is "We began to think of drawing lines with it in ways that we found visually interesting. Together, we had enough common background and experience to begin to use the computer graphically. Together we draw with the computer and sign the drawings". I really stood out to me because it depicted teamwork, which is a recurring theme I've noticed throughout the entire article. 
+
+> I am someone who prefers working alone because I want the control and maybe in a cynical way, the credit. I found *that* to work better for me since I am quite introverted, but lately I am starting to see the wonders and benefits of opening up and working with others. Bouncing ideas off one another, sharing skills and helping each other can sometimes improve a piece of work in ways I wouldn't have been able to fathom myself.
+
+
 ## Links
 
 - [ReCode Project](http://recodeproject.com/)
