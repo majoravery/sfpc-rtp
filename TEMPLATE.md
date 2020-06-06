@@ -1,12 +1,12 @@
-# Week X: John Whitney Sr.
+# Week X: artist name
 
-Corresponding Paper link: https://paper.dropbox.com/doc/John-Whitney-Sr.-Vzkx60tGRgD3x3Ch20Lju
+Corresponding Paper link: 
 
 ## Homework
 
-1. Recreate one of John Whitney's works
+1.
 
-2. Readings: Articulated Light: The Emergence of Abstract Film in America
+2.
 
 ## Links
 
