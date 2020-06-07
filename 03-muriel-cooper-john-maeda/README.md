@@ -14,5 +14,7 @@ Corresponding Paper link: https://paper.dropbox.com/doc/Muriel-Cooper-FvT5AYFMNj
 
   _Nick Cave’s best-known work is the Soundsuits series, costumes that completely covers the individual’s body. They camouflage the shape of the wearer, enveloping, and creating a second skin that hides gender, race, and class, thus compelling the audience to watch without judgment._
 
+- [Font designer](https://www.glyphrstudio.com/)
+
 ## Books
 
